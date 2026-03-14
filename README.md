@@ -1,4 +1,4 @@
-# Hi, human. 👋
+# 👋 Hi, human.
 
 ```bash
 $ whoami
@@ -9,7 +9,7 @@ $ uptime
 > load average: coffee dependent
 
 $ cat /etc/motto
-> "It Ain’t What You Don’t Know That Gets You Into Trouble. It’s What You Know for Sure That Just Ain’t So"
+> "It Ain’t What You Don’t Know That Gets You Into Trouble. It’s What You Know for Sure That Just Ain’t So."
 ```
 
 <div align="center">
